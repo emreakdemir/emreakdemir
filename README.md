@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [www.kariyer.net/ozgecmis/akdemiremre](www.kariyer.net/ozgecmis/akdemiremre)
+- 👨‍💻 All of my projects are available at [https://www.kariyer.net/ozgecmis/akdemiremre](www.kariyer.net/ozgecmis/akdemiremre){:target="_blank"}
 
 - 📫 Reach me at **emreakdemir@outlook.com**
 
