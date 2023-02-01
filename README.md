@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-<a href="https://app.daily.dev/emreakdemir"  target="blank">>
+<a href="https://app.daily.dev/emreakdemir"  target="blank">
     <img  align="center" src="https://github.com/emreakdemir/emreakdemir/blob/main/devcard.svg" width="350" alt="Emre Akdemir's Dev Card"/>
 </a>
 </div>
