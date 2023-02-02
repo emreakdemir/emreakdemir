@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [https://www.kariyer.net/ozgecmis/akdemiremre](https://www.kariyer.net/ozgecmis/akdemiremre)
+- 👨‍💻 All of my projects are available [CV](https://www.kariyer.net/ozgecmis/akdemiremre)
 
-- 📫 Reach me at **emreakdemir@outlook.com**
+- 📫 Reach me at **[here](mailto:emreakdemir@outlook.com)**
 
 
 <h3 align="left">Connect with me:</h3>
