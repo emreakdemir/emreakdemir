@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working on **Turkish Technic Internal Projects**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available [CV](https://www.kariyer.net/ozgecmis/akdemiremre)
 
