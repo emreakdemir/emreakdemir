@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available [CV](https://www.kariyer.net/ozgecmis/akdemiremre)
 
-- 📫 Reach me at **[here](mailto:emreakdemir@outlook.com)**
+- 📫 Reach me at **[here](mailto:me@emreakdemir.dev)**
 
 
 <h3 align="left">Connect with me:</h3>
