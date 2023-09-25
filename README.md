@@ -2,12 +2,10 @@
 <h3 align="center">Software Architect at Turkish Technology</h3>
 
 
+- 👨‍💻 I’m currently working on **Turkish Technic Internal Projects**
 - 🌱 I’m currently learning **Python**
-
-- 👨‍💻 All of my projects are available [CV](https://www.kariyer.net/ozgecmis/akdemiremre)
-
+- 👨‍💻 All of my projects are available at [LinkedIn](https://linkedin.com/in/emreakdemir)
 - 📫 Reach me at **[here](mailto:me@emreakdemir.dev)**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
