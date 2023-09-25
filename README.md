@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre Akdemir</h1>
-<h3 align="center">Software Architect at Turkish Technology</h3>
+<h3 align="center">Tech Lead at Turkish Technology</h3>
 
 
 - 👨‍💻 I’m currently working on **Turkish Technic Internal Projects**
