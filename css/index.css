@@ -1,0 +1,21 @@
+#skills ul li {
+    min-height: 5rem;
+}
+@media (min-width: 962px) {
+    #skills ul li {
+        min-height: 100px;
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 768px) {
+    #skills ul li {
+        font-size: 14px;
+    }
+}
+@media (max-width: 425px) {
+    #skills ul li {
+        font-size: 12px;
+    }
+}
+
