@@ -1,6 +1,15 @@
 #skills ul li {
     min-height: 5rem;
 }
+
+.empty-top {
+    margin-top:-2px
+}
+
+#experience img {
+    margin-right: 10px !important;
+}
+
 @media (min-width: 962px) {
     #skills ul li {
         min-height: 100px;
