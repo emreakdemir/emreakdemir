@@ -37,9 +37,9 @@
 <p align="left">
   <img height="140" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emreakdemir&show_icons=true&locale=en&layout=compact&theme=highcontrast&no-bg=true&no-frame=true&include_all_commits=true&hide=html,css" alt="emreakdemir" />
 </p>
-<br />
 <p align="left">
   <img height="140" align="left" src="https://github-readme-stats.vercel.app/api?username=emreakdemir&show_icons=true&locale=en&layout=compact&theme=highcontrast&no-bg=true&no-frame=true" alt="emreakdemir" />
-  
+</p>
+<p align="left">
   <img height="140" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=emreakdemir&layout=compact&theme=highcontrast&no-bg=true&no-frame=true&include_all_commits=true" alt="emreakdemir" />
 </p>
