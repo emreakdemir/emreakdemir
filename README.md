@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **.net, asp.net-core, asp.net-web-api, c#, git, json, sql, react, typescript**
 
-- 📫 How to reach me [Mail](mailto:me@emreakdemir.dev)
+- 📫 [Reach Me](mailto:me@emreakdemir.dev)
 
-- 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/emreakdemir)
+- 📄 Know about my experiences from [LinkedIn](https://linkedin.com/in/emreakdemir)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
