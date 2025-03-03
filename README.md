@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/emreakdemir" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emreakdemir" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/emre-akdemir" target="blank">
+  <a href="https://stackoverflow.com/users/13548895/emre-akdemir" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="emre-akdemir" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/emreakdemir" target="blank">
