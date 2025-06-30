@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Emre Akdemir</h1>
-<h3 align="left">Software Developer, Team Lead at Turkish Technology</h3>
+<h3 align="left">Software Architect - Team Lead at Turkish Technology</h3>
 
 - 🔭 I’m currently working on [HeroKit](https://github.com/emreakdemir/HeroKit)
 
