@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences from [LinkedIn](https://linkedin.com/in/emreakdemir)
 
-- ✍️ Read my blog from [Medium](https://emreakdemir.dev)
+- ✍️ Read my blog on [Medium](https://emreakdemir.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
