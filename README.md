@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences from [LinkedIn](https://linkedin.com/in/emreakdemir)
 
+- ✍️ Read my blog from [Medium](https://emreakdemir.dev)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/emreakdemir" target="blank">
@@ -31,9 +33,7 @@
     <img src="https://stackoverflow.com/users/flair/13548895.png" height="50" alt="profile for Emre Akdemir at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Emre Akdemir at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
   </a>
 </p>
-<p align="left"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=emreakdemir&ryo-ma&theme=chalk&row=1&column=6&margin-w=15&no-bg=true&no-frame=true" alt="emreakdemir" />
-</p>
+
 <p align="left">
   <img height="140" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emreakdemir&show_icons=true&locale=en&layout=compact&theme=highcontrast&no-bg=true&no-frame=true&include_all_commits=true&hide=html,css" alt="emreakdemir" />
 </p>
