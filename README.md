@@ -1,42 +1,34 @@
-<h1 align="left">Hi 👋, I'm Emre Akdemir</h1>
-<h3 align="left">Software Architect - Team Lead at Turkish Technology</h3>
+# Emre Akdemir
 
-- 🔭 I’m currently working on [HeroKit](https://github.com/emreakdemir/HeroKit)
+Software Architect & Team Lead at [Turkish Technology](https://www.turkishtechnology.com). I design .NET systems and lead the teams that build them. On the side I ship small products under [Lyconiq](https://lyconiq.com).
 
-- 👨‍💻 All of my projects are available at [LinkedIn](https://linkedin.com/in/emreakdemir)
+[emreakdemir.dev](https://emreakdemir.dev) · [LinkedIn](https://linkedin.com/in/emreakdemir) · [Stack Overflow](https://stackoverflow.com/users/13548895/emre-akdemir) · [me@emreakdemir.dev](mailto:me@emreakdemir.dev)
 
-- 💬 Ask me about **.net, asp.net-core, asp.net-web-api, c#, git, json, sql, react, typescript**
+## Products
 
-- 📫 [Reach Me](mailto:me@emreakdemir.dev)
+Built and run under [Lyconiq](https://lyconiq.com), a micro SaaS studio.
 
-- 📄 Know about my experiences from [LinkedIn](https://linkedin.com/in/emreakdemir)
+| | | |
+|---|---|---|
+| [EOL Tracker](https://eol-tracker.lyconiq.com) | Expiry dates for the food, medicine and household goods at home. | Live |
+| [stadiu-m](https://stadiu-m.lyconiq.com) | Match planning, attendance polls, balanced line-ups and the cash box for your weekly game. | Live |
+| [Matchier](https://matchier.net) | Context-aware matching on mobile, one persona per context. | Waitlist |
+| [İZAN](https://lyconiq.com/en/products/izan) | A control room that shows every AI agent you run on one screen. | Waitlist |
+| [Friction Radar](https://lyconiq.com/en#products) | Turns the hidden bottlenecks in your delivery flow into measurable signals. | Waitlist |
+| [Policy Pulse](https://lyconiq.com/en#products) | Lightweight governance for AI-assisted changes, with an audit-friendly trail. | Waitlist |
 
-- ✍️ Read my blog on [Medium](https://emreakdemir.dev)
+## Open source
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/emreakdemir" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emreakdemir" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/13548895/emre-akdemir" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="emre-akdemir" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/emreakdemir" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emreakdemir" height="30" width="40" />
-  </a>
-</p>
+- [HeroKit](https://github.com/emreakdemir/HeroKit) — extension methods for .NET: validation, conversion and manipulation of everyday types. MIT, on [NuGet](https://www.nuget.org/packages/HeroKit).
+- [configuration-library](https://github.com/emreakdemir/configuration-library) — Redis-backed dynamic configuration for .NET services, with a management API.
+- [clean-code-examples](https://github.com/emreakdemir/clean-code-examples) — C# examples from my Clean Code talk at ACM Ankara.
+- [angular-dynamic-form-creator](https://github.com/emreakdemir/angular-dynamic-form-creator) — build Angular forms from a JSON definition.
 
-<br />
+## Writing
 
-<p align="left">
-  <a href="https://stackoverflow.com/users/13548895/emre-akdemir?theme=dark">
-    <img src="https://stackoverflow.com/users/flair/13548895.png" height="50" alt="profile for Emre Akdemir at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Emre Akdemir at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-  </a>
-</p>
+- [Teknik Liderin Pusulası: Naziklik Bir Stratejidir](https://emreakdemir.medium.com/teknik-liderin-pusulasi-naziklik-bir-stratejidir-21e0a9f35dd4) (TR)
+- [Beyond the Code: 7 Lessons from Team Coaching in Software Development](https://emreakdemir.medium.com/beyond-the-code-7-powerful-lessons-from-team-coaching-in-software-development-133b64b92ef2)
+- [Web API Tasarımı: Temel Prensipler ve Pratikler](https://emreakdemir.medium.com/web-api-tasar%C4%B1m%C4%B1-temel-prensipler-ve-pratikler-1461c037c39c) (TR)
+- [Clean Code & Key Principles](https://emreakdemir.medium.com/clean-code-key-principles-63ac1c492162)
 
-<p align="left">
-  <img height="140" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emreakdemir&show_icons=true&locale=en&layout=compact&theme=highcontrast&no-bg=true&no-frame=true&include_all_commits=true&hide=html,css" alt="emreakdemir" />
-</p>
-<p align="left">
-  <img height="140" align="left" src="https://github-readme-stats.vercel.app/api?username=emreakdemir&show_icons=true&locale=en&layout=compact&theme=highcontrast&no-bg=true&no-frame=true" alt="emreakdemir" />
-</p>
+More at [emreakdemir.dev](https://emreakdemir.dev). Ask me about .NET architecture, API design and leading engineering teams.
